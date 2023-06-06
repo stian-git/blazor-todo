@@ -1,0 +1,70 @@
+C:\Temp\ToDoApplication\ToDoApplication\bin\Debug\net6.0\appsettings.Development.json
+C:\Temp\ToDoApplication\ToDoApplication\bin\Debug\net6.0\appsettings.json
+C:\Temp\ToDoApplication\ToDoApplication\bin\Debug\net6.0\ToDoApplication.staticwebassets.runtime.json
+C:\Temp\ToDoApplication\ToDoApplication\bin\Debug\net6.0\ToDoApplication.exe
+C:\Temp\ToDoApplication\ToDoApplication\bin\Debug\net6.0\ToDoApplication.deps.json
+C:\Temp\ToDoApplication\ToDoApplication\bin\Debug\net6.0\ToDoApplication.runtimeconfig.json
+C:\Temp\ToDoApplication\ToDoApplication\bin\Debug\net6.0\ToDoApplication.dll
+C:\Temp\ToDoApplication\ToDoApplication\bin\Debug\net6.0\ToDoApplication.pdb
+C:\Temp\ToDoApplication\ToDoApplication\obj\Debug\net6.0\ToDoApplication.csproj.AssemblyReference.cache
+C:\Temp\ToDoApplication\ToDoApplication\obj\Debug\net6.0\ToDoApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ToDoApplication\ToDoApplication\obj\Debug\net6.0\ToDoApplication.AssemblyInfoInputs.cache
+C:\Temp\ToDoApplication\ToDoApplication\obj\Debug\net6.0\ToDoApplication.AssemblyInfo.cs
+C:\Temp\ToDoApplication\ToDoApplication\obj\Debug\net6.0\ToDoApplication.csproj.CoreCompileInputs.cache
+C:\Temp\ToDoApplication\ToDoApplication\obj\Debug\net6.0\ToDoApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Temp\ToDoApplication\ToDoApplication\obj\Debug\net6.0\ToDoApplication.RazorAssemblyInfo.cache
+C:\Temp\ToDoApplication\ToDoApplication\obj\Debug\net6.0\ToDoApplication.RazorAssemblyInfo.cs
+C:\Temp\ToDoApplication\ToDoApplication\obj\Debug\net6.0\staticwebassets\msbuild.ToDoApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Temp\ToDoApplication\ToDoApplication\obj\Debug\net6.0\staticwebassets\msbuild.build.ToDoApplication.props
+C:\Temp\ToDoApplication\ToDoApplication\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ToDoApplication.props
+C:\Temp\ToDoApplication\ToDoApplication\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ToDoApplication.props
+C:\Temp\ToDoApplication\ToDoApplication\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Temp\ToDoApplication\ToDoApplication\obj\Debug\net6.0\staticwebassets.build.json
+C:\Temp\ToDoApplication\ToDoApplication\obj\Debug\net6.0\staticwebassets.development.json
+C:\Temp\ToDoApplication\ToDoApplication\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Temp\ToDoApplication\ToDoApplication\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Temp\ToDoApplication\ToDoApplication\obj\Debug\net6.0\scopedcss\bundle\ToDoApplication.styles.css
+C:\Temp\ToDoApplication\ToDoApplication\obj\Debug\net6.0\scopedcss\projectbundle\ToDoApplication.bundle.scp.css
+C:\Temp\ToDoApplication\ToDoApplication\obj\Debug\net6.0\ToDoApplication.dll
+C:\Temp\ToDoApplication\ToDoApplication\obj\Debug\net6.0\refint\ToDoApplication.dll
+C:\Temp\ToDoApplication\ToDoApplication\obj\Debug\net6.0\ToDoApplication.pdb
+C:\Temp\ToDoApplication\ToDoApplication\obj\Debug\net6.0\ToDoApplication.genruntimeconfig.cache
+C:\Temp\ToDoApplication\ToDoApplication\obj\Debug\net6.0\ref\ToDoApplication.dll
+C:\Temp\ToDoApplication\ToDoApplication\bin\Debug\net6.0\Blazored.LocalStorage.dll
+C:\Temp\ToDoApplication\ToDoApplication\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Temp\ToDoApplication\ToDoApplication\obj\Debug\net6.0\ToDoApplication.csproj.CopyComplete
+C:\Users\Stian\Dropbox\Programmering\Egne Prosjekter\blazor-todo\ToDoApplication\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Stian\Dropbox\Programmering\Egne Prosjekter\blazor-todo\ToDoApplication\bin\Debug\net6.0\appsettings.json
+C:\Users\Stian\Dropbox\Programmering\Egne Prosjekter\blazor-todo\ToDoApplication\bin\Debug\net6.0\ToDoApplication.staticwebassets.runtime.json
+C:\Users\Stian\Dropbox\Programmering\Egne Prosjekter\blazor-todo\ToDoApplication\bin\Debug\net6.0\ToDoApplication.exe
+C:\Users\Stian\Dropbox\Programmering\Egne Prosjekter\blazor-todo\ToDoApplication\bin\Debug\net6.0\ToDoApplication.deps.json
+C:\Users\Stian\Dropbox\Programmering\Egne Prosjekter\blazor-todo\ToDoApplication\bin\Debug\net6.0\ToDoApplication.runtimeconfig.json
+C:\Users\Stian\Dropbox\Programmering\Egne Prosjekter\blazor-todo\ToDoApplication\bin\Debug\net6.0\ToDoApplication.dll
+C:\Users\Stian\Dropbox\Programmering\Egne Prosjekter\blazor-todo\ToDoApplication\bin\Debug\net6.0\ToDoApplication.pdb
+C:\Users\Stian\Dropbox\Programmering\Egne Prosjekter\blazor-todo\ToDoApplication\bin\Debug\net6.0\Blazored.LocalStorage.dll
+C:\Users\Stian\Dropbox\Programmering\Egne Prosjekter\blazor-todo\ToDoApplication\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Stian\Dropbox\Programmering\Egne Prosjekter\blazor-todo\ToDoApplication\obj\Debug\net6.0\ToDoApplication.csproj.AssemblyReference.cache
+C:\Users\Stian\Dropbox\Programmering\Egne Prosjekter\blazor-todo\ToDoApplication\obj\Debug\net6.0\ToDoApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stian\Dropbox\Programmering\Egne Prosjekter\blazor-todo\ToDoApplication\obj\Debug\net6.0\ToDoApplication.AssemblyInfoInputs.cache
+C:\Users\Stian\Dropbox\Programmering\Egne Prosjekter\blazor-todo\ToDoApplication\obj\Debug\net6.0\ToDoApplication.AssemblyInfo.cs
+C:\Users\Stian\Dropbox\Programmering\Egne Prosjekter\blazor-todo\ToDoApplication\obj\Debug\net6.0\ToDoApplication.csproj.CoreCompileInputs.cache
+C:\Users\Stian\Dropbox\Programmering\Egne Prosjekter\blazor-todo\ToDoApplication\obj\Debug\net6.0\ToDoApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Stian\Dropbox\Programmering\Egne Prosjekter\blazor-todo\ToDoApplication\obj\Debug\net6.0\ToDoApplication.RazorAssemblyInfo.cache
+C:\Users\Stian\Dropbox\Programmering\Egne Prosjekter\blazor-todo\ToDoApplication\obj\Debug\net6.0\ToDoApplication.RazorAssemblyInfo.cs
+C:\Users\Stian\Dropbox\Programmering\Egne Prosjekter\blazor-todo\ToDoApplication\obj\Debug\net6.0\staticwebassets\msbuild.ToDoApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Stian\Dropbox\Programmering\Egne Prosjekter\blazor-todo\ToDoApplication\obj\Debug\net6.0\staticwebassets\msbuild.build.ToDoApplication.props
+C:\Users\Stian\Dropbox\Programmering\Egne Prosjekter\blazor-todo\ToDoApplication\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ToDoApplication.props
+C:\Users\Stian\Dropbox\Programmering\Egne Prosjekter\blazor-todo\ToDoApplication\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ToDoApplication.props
+C:\Users\Stian\Dropbox\Programmering\Egne Prosjekter\blazor-todo\ToDoApplication\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Stian\Dropbox\Programmering\Egne Prosjekter\blazor-todo\ToDoApplication\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Stian\Dropbox\Programmering\Egne Prosjekter\blazor-todo\ToDoApplication\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Stian\Dropbox\Programmering\Egne Prosjekter\blazor-todo\ToDoApplication\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Stian\Dropbox\Programmering\Egne Prosjekter\blazor-todo\ToDoApplication\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Stian\Dropbox\Programmering\Egne Prosjekter\blazor-todo\ToDoApplication\obj\Debug\net6.0\scopedcss\bundle\ToDoApplication.styles.css
+C:\Users\Stian\Dropbox\Programmering\Egne Prosjekter\blazor-todo\ToDoApplication\obj\Debug\net6.0\scopedcss\projectbundle\ToDoApplication.bundle.scp.css
+C:\Users\Stian\Dropbox\Programmering\Egne Prosjekter\blazor-todo\ToDoApplication\obj\Debug\net6.0\ToDoApplication.csproj.CopyComplete
+C:\Users\Stian\Dropbox\Programmering\Egne Prosjekter\blazor-todo\ToDoApplication\obj\Debug\net6.0\ToDoApplication.dll
+C:\Users\Stian\Dropbox\Programmering\Egne Prosjekter\blazor-todo\ToDoApplication\obj\Debug\net6.0\refint\ToDoApplication.dll
+C:\Users\Stian\Dropbox\Programmering\Egne Prosjekter\blazor-todo\ToDoApplication\obj\Debug\net6.0\ToDoApplication.pdb
+C:\Users\Stian\Dropbox\Programmering\Egne Prosjekter\blazor-todo\ToDoApplication\obj\Debug\net6.0\ToDoApplication.genruntimeconfig.cache
+C:\Users\Stian\Dropbox\Programmering\Egne Prosjekter\blazor-todo\ToDoApplication\obj\Debug\net6.0\ref\ToDoApplication.dll

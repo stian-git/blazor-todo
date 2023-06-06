@@ -1,0 +1,79 @@
+﻿@page "/todo"
+@*@using Newtonsoft.Json*@
+@inject Blazored.LocalStorage.ILocalStorageService Localstorage
+
+<h3>@HeaderName</h3>
+@*Edit form*@
+
+<EditForm Model="task" class="form-inline" OnValidSubmit="AddTask">
+    <input class="form-control mx-2" type="text" @bind-value="task.TaskName"/>
+    <button class="btn btn-outline-primary mx-2">Add Task</button>
+</EditForm>
+
+<div class="progress-bar my-2 mx-2" role="progressbar" style="width:@(PercentageCompleted)%" aria-valuemax="100" aria-valuemin="0"> @(PercentageCompleted)%</div>
+
+
+<ul class="list-group my-2">
+    @foreach(var taskitem in taskList)
+    {
+        if (taskitem.IsComplete)
+        {
+            @*Task Completed*@
+            <li class="list-group-item list-group-item-success mx-1" @onclick="(() => ToggleComplete(taskitem))"><del>@taskitem.TaskName</del><i class="trashcan" @onclick="(() => taskList.Remove(taskitem))">X</i></li>
+        } else {
+            @*Task Not Completed*@
+            <li class="list-group-item list-group-item-secondary mx-1" @onclick="(() => ToggleComplete(taskitem))">@taskitem.TaskName <i class="trashcan" @onclick="(() => taskList.Remove(taskitem))">X</i></li>
+        }
+    }
+</ul>
+
+@code {
+    // C# Code
+
+    protected List<TaskModel> taskList = new List<TaskModel>();
+
+    protected TaskModel task = new TaskModel();
+
+    protected override async void OnInitialized()
+    {
+        if (HeaderName == "")
+        {
+            HeaderName = "ToDo";
+        }
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        var storedToDos = await Localstorage.GetItemAsync<string>("SavedToDos");
+        var parsedTodos = JsonConvert.DeserializeObject<List<TaskModel>>(storedToDos);
+        taskList = parsedTodos;
+    }
+
+    [Parameter]
+    public string HeaderName { get; set; }
+
+    private void AddTask()
+    {
+        taskList.Add(task);
+        task = new TaskModel();
+        SaveToDos();
+    }
+
+    private void ToggleComplete(TaskModel taskitem)
+    {
+        taskitem.IsComplete = !taskitem.IsComplete;
+        SaveToDos();
+
+    }
+
+    public int PercentageCompleted { get
+        {
+            return taskList.Count > 0 ? (taskList.Count(x => x.IsComplete)*100/taskList.Count) : 0;
+        }
+    }
+
+    public void SaveToDos()
+    {
+        Localstorage.SetItemAsync("SavedToDos", JsonConvert.SerializeObject(taskList));
+    }
+}
